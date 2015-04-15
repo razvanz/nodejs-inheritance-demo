@@ -3,6 +3,11 @@ NodeJS inheritance demo
 
 Demo different ways of implementing inheritance in NodeJS
 
+Contributing
+------------
+
+For any corrections / considerations please submit an issue or a pull request.
+
 Usage
 -----
 
