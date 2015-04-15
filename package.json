@@ -1,0 +1,12 @@
+{
+  "name": "inheritance-demo",
+  "version": "1.0.0",
+  "description": "Demo different ways of implementing inheritance in NodeJS",
+  "main": "./lib/",
+  "scripts": {
+    "test": "node ./lib/index.js"
+  },
+  "author": "Razvan Laurus <razvan.laurus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
