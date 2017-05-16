@@ -1,6 +1,8 @@
 NodeJS inheritance demo
 =======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/razvanz/nodejs-inheritance-demo.svg)](https://greenkeeper.io/)
+
 Demo different ways of implementing inheritance in NodeJS
 
 Contributing
